@@ -1,0 +1,12 @@
+import turtle
+turtle.Screen().bgcolor("Red")
+sc1 = turtle.Screen()
+sc1 .setup(400,300)
+turtle.title("Welcome to Turtle Window")
+sc = turtle.Turtle()
+# retangle
+sc.forward(900)
+sc.right(90)
+sc.forward(100)
+sc.down(90)
+sc.left(100)
