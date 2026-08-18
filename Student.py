@@ -4,8 +4,8 @@ class student:
         self.school=school
         self.standed=standed
         self.seed=section
-Janit= ('Janit','SSRVM',5,'D')
+Janit= student ('Janit','SSRVM',5,'D')
 print(Janit.name)
-print('SSRVM'.school)
-print('D'.section)
+print(Janit.school)
+print(Janit.seed)
         
