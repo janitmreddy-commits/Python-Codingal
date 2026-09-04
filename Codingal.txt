@@ -1,0 +1,27 @@
+File in write....Hi! I am Janit.I am 10 years.old
+ File in append mode....Hi! I am Janit.I am 10 years.old
+Parrots are highly intelligent and
+
+colorful birds found mostly in warm,
+
+tropical regions around the world.
+
+They are famous for their curved bills,
+
+vibrant feathers, and
+
+unique ability to mimic
+
+human speech and sounds.
+
+These social birds live in
+
+large groups called flocks and
+
+use their strong, clawed feet to climb trees
+
+and hold onto fruits and seeds.
+
+Because of their playful personalities and
+
+bright colors, they are loved both in the wild and as companion pets.
